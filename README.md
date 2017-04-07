@@ -1,30 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to the GitHub Pages of Christopher Lewis
 
-You can use the [editor on GitHub](https://github.com/ChristopherGLewis/ChristopherGLewis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My GitHub has several projects that I'm currently working on.
+
+### Projects
+
+- [ZertoModule](https://github.com/ChristopherGLewis/ZertoModule) - a project that wraps the [Zerto](http://www.Zerto.com/) REST API in a PowerShell module.
+- [GridMVCPlus](https://github.com/ChristopherGLewis/GridMVCPlus) - My minor updates to the original CodePlex [GridMVC](http://gridmvc.codeplex.com/)
+- [RollingFileWithCleanupAppender](https://github.com/ChristopherGLewis/RollingFileWithCleanupAppender) - A Log4Net appender based on the RollingFileAppender that does file clean up based on age or max file counts.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### notes
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
