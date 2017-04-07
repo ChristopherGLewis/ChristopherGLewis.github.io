@@ -8,9 +8,11 @@ My GitHub has several projects that I'm currently working on.
 - [GridMVCPlus](https://github.com/ChristopherGLewis/GridMVCPlus) - My minor updates to the original CodePlex [GridMVC](http://gridmvc.codeplex.com/)
 - [RollingFileWithCleanupAppender](https://github.com/ChristopherGLewis/RollingFileWithCleanupAppender) - A Log4Net appender based on the RollingFileAppender that does file clean up based on age or max file counts.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please feel free to contribute.
 
-### notes
+---
+
+### Jekyll notes (ignore)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
